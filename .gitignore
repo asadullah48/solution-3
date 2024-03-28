@@ -1,6 +1,0 @@
-let personalMessage: string = "ahmed";
-console .log(personalMessage .toLowerCase());
-console .log(personalMessage .toUpperCase());
-console .log(personalMessage .charAt(0) .toUpperCase() + personalMessage .slice(1));
-
-/node_modules
